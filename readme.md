@@ -6,4 +6,5 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge can be f
 
 ### Links to the Solution of the challenges:-
 
-* [01-Drumkit](https://rishavpandey.com/JavaScript30/01-Drumkit)
+* [01-DrumKit](https://rishavpandey.com/JavaScript30/01-DrumKit)
+* [02-JSClock](https://rishavpandey.com/JavaScript30/02-JSClock)
