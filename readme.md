@@ -8,3 +8,4 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge can be f
 
 * [01-DrumKit](https://rishavpandey.com/JavaScript30/01-DrumKit)
 * [02-JSClock](https://rishavpandey.com/JavaScript30/02-JSClock)
+* [03-CSSVariables](https://rishavpandey.com/JavaScript30/03-CSSVariables)
