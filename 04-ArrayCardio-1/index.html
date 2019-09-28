@@ -92,9 +92,9 @@
     // Sort the people alphabetically by last name
 
     const sortedPeople = people.sort(function (a, b) {
-      const [alast, afirst] = a.split(', ');
-      const [blast, bfirst] = b.split(', ');
-      return (alast > blast ? 1 : -1);
+      const [aLast, aFirst] = a.split(', ');
+      const [bLast, bFirst] = b.split(', ');
+      return (aLast > bLast ? 1 : -1);
     });
 
     console.log('\n7. Sort the people alphabetically by last name');
